@@ -26,6 +26,7 @@ def run_tests():
 # Edit this code
 def biggest(a, b, c):
 
+
     if a >= b and a >= c:
        print (a)
 
@@ -34,5 +35,3 @@ def biggest(a, b, c):
 
     elif c >= a and c >= b:
         print(c)
-
-
